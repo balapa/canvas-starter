@@ -1,3 +1,5 @@
+import { Module } from './module.js';
+
 class App {
 	constructor() {
 		this.canvas = document.getElementById('canvas');

@@ -1,5 +1,5 @@
-This is some code I use when code in canvas
+### Requirements
+Install live-server globally https://github.com/tapio/live-server
 
-## Hot Reload
-You need to install live-server https://github.com/tapio/live-server
-Run `live-server`, then make your changes.
+### Run
+Run the command `live-server`
